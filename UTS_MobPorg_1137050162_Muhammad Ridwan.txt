@@ -1,0 +1,43 @@
+Nama : Muhammad Ridwan
+Nim  : 1137050162
+1. Untuk dapat menampilkan gambar membutuhkan tag xml?
+   <ImageView 
+android:src="" />
+
+
+2. android:layout_width, android:text dan android:src merupakan contoh dari ?
+   attribut xml
+
+
+3. CamelCase
+   iLikePracticeSetsTheBest
+
+
+4. RelativeLayout dan LinearLayout disebut dengan?
+   View Group
+
+
+5. <RelativeLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"> 
+       <Button
+       android:id="@+id/lyla_text_view"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:textSize="24sp"
+       android:text="Click Me"
+
+       android:layout_alignParentBottom="true"	 	
+       android:layout_centerHorizontal="true" />
+
+       </RelativeLayout>
+
+
+6. Keduanya menggunakan linear layout, yang membedakannya terletak pada orientasiionnya.
+   kode 1 menggunakan orientation vertical, jika menggunakan orientaion vertical maka
+   peletakan elemen akan terurut kebawah. Sedangkan kode 2 menggunakan orientaion horizontal,
+   maka peletakan elemennya akan terurut ke samping.
+
+
+7. Program pemesanan pizza 
